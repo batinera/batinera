@@ -1,4 +1,4 @@
-### Fala pessoal! Sou o Leonardo, futuro desenvolvedor formado em ADS pela FIAP! 👋
+### Hey guys! I'm Leonardo, currently a Software Engineer at UOL EdTech! 👋
 
 <div align="left">
   <a href="https://github.com/batinera">
