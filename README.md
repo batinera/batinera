@@ -1,4 +1,4 @@
-## 👨‍💻 About
+## 👨 About
 
 - 📌 &nbsp; São Paulo - Brasil 🇧🇷.
 - 🎓 &nbsp; Systems Analysis and Development - 2021.
