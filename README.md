@@ -18,6 +18,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=red)
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
