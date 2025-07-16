@@ -18,9 +18,22 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=red)
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=red)
+  ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby-on-rails&logoColor=red)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
   ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=FF69B4)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Databases**
+
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+ ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+**Tests**
+
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
+![RSpec](https://img.shields.io/badge/-RSpec-333333?style=flat&logo=rspec)
 
 **Development Tools**
 
